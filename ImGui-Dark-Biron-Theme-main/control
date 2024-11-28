@@ -1,0 +1,11 @@
+Homepage: Azu2008
+Depiction: Azu2008
+Author: DESIGN BY QuangHai
+Maintainer: DES MODER
+Name: THEME MENU VIP
+Package: com.theme.QuangHai
+Depends: firmware (>= 8.0)
+Section: Utilities
+Architecture: iphoneos-arm
+Description: DESIGN BY QuangHai
+dev: QuangHai
